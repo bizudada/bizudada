@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm [Your Name] 👋
 
 ## About Me
