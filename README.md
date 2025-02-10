@@ -15,6 +15,12 @@ A React app to track progress and save video ideas and notes.
 ### Clash of Clans Base Designs
 A full-stack app to upload and share Clash of Clans base designs and layouts for players.
 
+### Online Portfolio
+A personal portfolio website showcasing my projects and skills.
+
+### Progress Tracker and Video Idea Manager
+A React app to track progress and save video ideas and notes for YouTubers.
+
 ## Learning
 - Improving my CSS skills
 - Learning React and Node.js
