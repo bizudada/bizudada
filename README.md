@@ -1,5 +1,5 @@
 
-# Hi there, I'm bizudada 👋
+# Hi there, I'm Harekrushna 👋
 
 ## About Me
 I'm a developer who is currently learning and exploring new technologies. I have created a few projects and am eager to learn more.
